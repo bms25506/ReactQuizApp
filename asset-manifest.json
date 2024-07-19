@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactQuizApp/static/css/main.61139edd.css",
+    "main.js": "/ReactQuizApp/static/js/main.7d18819e.js",
+    "static/media/france.png": "/ReactQuizApp/static/media/france.de602027da2c395a2af2.png",
+    "index.html": "/ReactQuizApp/index.html",
+    "main.61139edd.css.map": "/ReactQuizApp/static/css/main.61139edd.css.map",
+    "main.7d18819e.js.map": "/ReactQuizApp/static/js/main.7d18819e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61139edd.css",
+    "static/js/main.7d18819e.js"
+  ]
+}
